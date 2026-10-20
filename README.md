@@ -1,6 +1,6 @@
 # VictoriaMetrics
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/victoriametrics?utm_campaign=victoriametrics)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/victoriametrics-e2e?utm_campaign=victoriametrics)
 
 **VictoriaMetrics** — the fast, cost-effective, Prometheus-compatible time series database and monitoring solution, as a one-click Railway deploy. A single Go binary bundles ingestion, storage and querying; point your Prometheus remote-write, vmagent or Grafana at it and your dashboards keep working.
 
