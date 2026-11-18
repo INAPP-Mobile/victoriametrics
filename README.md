@@ -34,4 +34,4 @@ Zero form fields on deploy. Optional knobs in the service's **Variables** panel 
 
 ### Deployment Dependencies
 
-Hobby plan or higher for the persistent volume. VictoriaMetrics needs nothing at runtime beyond its volume — no external API keys, no companion services, no third-party accounts. Point scrapers at `https://<your-domain>/api/v1/write` and open `/vmui` to explore.
+Hobby plan or higher for the persistent volume. VictoriaMetrics needs nothing at runtime beyond its volume — no external API keys, no companion services, no third-party accounts. Point scrapers at `https://{your-domain}/api/v1/write` and open `/vmui` to explore.
